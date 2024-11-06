@@ -1,0 +1,20 @@
+{
+  "short_name": "Kelompok 17",
+  "name": "Kelompok 17",
+  "icons": [
+    {
+      "src": "film-icon.png",  
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "film-icon.png", 
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
